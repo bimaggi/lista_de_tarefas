@@ -53,6 +53,7 @@ function App(){
   }
 
   return (
+    <>
     <div className="container">
       <header>
         <h1>Minhas tarefas</h1>
@@ -60,7 +61,12 @@ function App(){
       </header>
       <List onDone={onDone} items={items} onItemDeleted={onItemDeleted}/>
       <Modal show={show} onHideModal={onHideModal}><Form onAddItem={onAddItem}/></Modal>
+      
     </div>
+    <footer>
+        <p><a href="https://www.linkedin.com/in/marcia-bimaggi-marcia-beserra-de-oliveira-9303801b9/" target="_blank"><strong>Copyright&copy 2021; Created and powered by Marcia Bimaggi</strong></a></p> 
+    </footer>
+   </>
     
   );
 }
