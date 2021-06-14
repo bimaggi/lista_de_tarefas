@@ -55,7 +55,7 @@ function App(){
   return (
     <div className="container">
       <header>
-        <h1>Lista de tarefas</h1>
+        <h1>Minhas tarefas</h1>
         <button onClick={()=>{setShowModal(true)}} className= "addButton">+</button>
       </header>
       <List onDone={onDone} items={items} onItemDeleted={onItemDeleted}/>
