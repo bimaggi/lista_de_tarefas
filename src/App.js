@@ -64,7 +64,9 @@ function App(){
       
     </div>
     <footer>
-        <p><a href="https://www.linkedin.com/in/marcia-bimaggi-marcia-beserra-de-oliveira-9303801b9/" target="_blank"><strong>Copyright&copy 2021; Created and powered by Marcia Bimaggi</strong></a></p> 
+        <p><a href="https://www.linkedin.com/in/marcia-bimaggi-marcia-beserra-de-oliveira-9303801b9/" 
+        target="_blank"><strong>Copyright&copy 2021; Created and powered by Marcia Bimaggi</strong></a>
+        </p> 
     </footer>
    </>
     
