@@ -7,7 +7,7 @@ body{
 }
 .container{
   margin: auto;
-  max-width: 600px;
+  max-width: 50%;
   height: 100vw;
   padding-left: 3%;
   padding-right: 3%;
@@ -54,20 +54,22 @@ header{
   
 }
 .modal{
-  width: 100vw; 
+  width:100vw; 
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.2);
   position: fixed;
   top:0;
   left: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: flex; 
+ 
 }
-
 .cardModal{
   padding: 20px;
   background-color: white;
+  width: 25%;
+  height: 4%;
+  margin: auto;
+ 
 }
 
 .hide{
@@ -75,14 +77,44 @@ header{
 }
 
 input{
-  width: 300px;
+  width: 80%;
   
 }
 
-.mano{
+.btn{
   display: flex;
   flex-direction: column;
- 
   
 }
+@media(max-width: 576px){
+.container{
+  height: 100vh;
+  margin-top: 3%;
+  max-width: 90vw;
+  background-color: white;
+}
+.cardModal{
+  width: 75%;
+  display: block;
+  background-color: white;
+  padding: 8%;
+  padding-top: 6%;
+  
+}
+input{
+  width: 95%;
+  padding: 5px;
+}
+.item{
+  font-size: 16px;
+  padding: 6px;
+  margin-top: 5px;
+}
+.modal{
+  height: 100vh;
+ 
+}
+ 
+ }
+ 
 
