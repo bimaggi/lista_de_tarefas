@@ -56,7 +56,7 @@ function App(){
     <>
     <div className="container">
       <header>git 
-        <h1>Minhas_tarefas</h1>
+        <h1>Minhas tarefas</h1>
         <button onClick={()=>{setShowModal(true)}} className= "addButton">+</button>
       </header>
       <List onDone={onDone} items={items} onItemDeleted={onItemDeleted}/>
