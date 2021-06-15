@@ -10,12 +10,15 @@ Primeiro passo é criar o diretório em react, utilizando npx create-react-app l
 
 
 ## Comando utilizado para rodar a aplicação
-Na área de desenvolvimento o projeto roda no browser na porta 3000 com o comando
+No ambiente de desenvolvimento o projeto roda no browser na porta 3000 com o comando
 ### npm start
 
 
-## Para subir projeto para a area de produção
+## Para subir projeto para o ambiente de produção
 ### npm run build
+
+## Projeto está disponivel no link abaixo
+https://listartarefas.netlify.app/
 
 
 
