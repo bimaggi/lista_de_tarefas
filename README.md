@@ -14,8 +14,8 @@ No ambiente de desenvolvimento o projeto roda no browser na porta 3000 com o com
 ### npm start
 
 
-### Comando utilizado para preparar a aplicação para o ambiente de produção
-## npm run build
+## Comando utilizado para preparar a aplicação para o ambiente de produção
+### npm run build
 
 
 ### O projeto está disponivel no link abaixo
