@@ -1,10 +1,13 @@
 # Lista de tarefas
 
+Projeto desenvolvido em React,sugerido pelo curso Programadorbr
+Adicionar items à lista e manipular se tarefa já foi concluída ou até mesmo excluir a mesma.
 
-## Available Scripts
 
-In the project directory, you can run:
 
+## Projeto desenvolvido em React
+Primeiro passo é criar o diretório em react, utilizando npx create-react-app nome do projeto
+Na área de desenvolvimento o projeto roda no browser na porta 3000 com o comando
 ### `npm start`
 
 Runs the app in the development mode.\
