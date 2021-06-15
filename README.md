@@ -17,7 +17,7 @@ No ambiente de desenvolvimento o projeto roda no browser na porta 3000 com o com
 ## Para subir projeto para o ambiente de produção
 ### npm run build
 
-## Projeto está disponivel no link abaixo
+## O projeto está disponivel no link abaixo
 https://listartarefas.netlify.app/
 
 
