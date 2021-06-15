@@ -8,7 +8,7 @@ Adicionar items à lista e manipular se tarefa já foi concluída ou até mesmo 
 ## Projeto desenvolvido em React
 Primeiro passo é criar o diretório em react, utilizando npx create-react-app lista_de_tarefas
 
-Na área de desenvolvimento o projeto roda no browser na porta 3000 com o comando
+## Na área de desenvolvimento o projeto roda no browser na porta 3000 com o comando
 ### `npm start`
 
 Runs the app in the development mode.\
