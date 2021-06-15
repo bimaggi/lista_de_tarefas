@@ -11,11 +11,11 @@ Primeiro passo é criar o diretório em react, utilizando npx create-react-app l
 
 ### Comando utilizado para rodar a aplicação em desenvolvimento
 No ambiente de desenvolvimento o projeto roda no browser na porta 3000 com o comando
-#### npm start
+## npm start
 
 
 ### Comando utilizado para preparar a aplicação para o ambiente de produção
-#### npm run build
+## npm run build
 
 
 ### O projeto está disponivel no link abaixo
