@@ -64,7 +64,7 @@ function App(){
       
     </div>
     <footer>
-       <p><strong>Copyright&copy 2021; Created and powered by Marcia Bimaggi</strong></p> 
+       <a href='https://www.linkedin.com/in/marcia-b-oliveira/'><p><strong>Desenvolvido por Marcia Bimaggi - Projeto curso Programadorbr </strong></p></a>
     </footer>
    </>
     
